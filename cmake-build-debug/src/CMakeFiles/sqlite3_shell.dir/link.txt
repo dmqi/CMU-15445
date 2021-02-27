@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/sqlite3_shell.dir/sqlite/shell.c.o  -o ../bin/sqlite3  -Wl,-rpath,/Users/daimq/code/Cpp/BusTub/cmake-build-debug/lib ../lib/libsqlite3.dylib 
